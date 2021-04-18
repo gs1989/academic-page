@@ -37,7 +37,7 @@ experience:
     company_logo: org-bri
     location: Bristol, UK
     date_start: '2017-07-24'
-    date_end: '2020-12-8'
+    date_end: '2019-12-8'
 
 design:
   columns: '2'
