@@ -49,7 +49,7 @@ image:
   focal_point: ""
   preview_only: false
 date: 2021-04-18T15:34:24.884Z
-url_slides: ""
+url_slides: "Slides.pdf"
 publishDate: 2020-02-06T00:00:00Z
 url_poster: ""
 url_code: ""
