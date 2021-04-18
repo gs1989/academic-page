@@ -29,21 +29,14 @@ experience:
     location: Klagenfurt, Austria
     date_start: '2019-12-16'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
+
   - title: Research Associate
-    company: University X
-    company_url: ''
+    company: University of Bristol, UK
+    company_url: 'http://www.bristol.ac.uk/'
     company_logo: org-bri
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Bristol, UK
+    date_start: '2017-07-24'
+    date_end: '2019-12-08'
 
 design:
   columns: '2'
