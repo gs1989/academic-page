@@ -37,12 +37,12 @@ experience:
         * Deploying
         
   - title: Research Associate
-    company: University of Bristol, UK
-    company_url: 'http://www.bristol.ac.uk/'
+    company: University X
+    company_url: ''
     company_logo: org-bri
-    location: Bristol, UK
-    date_start: '2017-07-24'
-    date_end: '2019-12-8'
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
