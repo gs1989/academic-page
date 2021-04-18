@@ -18,8 +18,8 @@ abstract: Masking is a well-loved and widely deployed countermeasure against
   at which order leaks can be expected). Our results demonstrate how difficult
   it is to link theoretical security proofs to practical real-world security
   guarantees.
-slides: example
-url_pdf: ""
+slides: Slides
+url_pdf: "https://tches.iacr.org/index.php/TCHES/article/view/8396/7780"
 publication_types:
   - "1"
 authors:
@@ -28,9 +28,9 @@ authors:
   - Dan Page and Elisabeth Oswald
 author_notes: []
 publication: CHES 2020 (IACR Trans. Cryptogr. Hardw. Embed. Syst.)
-summary: ""
+summary: "A paper discussing the basis of the trivial implementation of bounded-moment model on software platforms."
 url_dataset: ""
-url_project: ""
+url_project: "https://github.com/sca-research/ShareSlicing_AES"
 publication_short: ""
 url_source: ""
 url_video: ""
@@ -38,7 +38,8 @@ title: "Share-slicing: Friend or Foe?"
 doi: 10.13154/tches.v2020.i1.152-174
 featured: true
 tags:
-  - Masking Side-Channel Analysis
+  - Masking
+  - Side-Channel Analysis
 categories:
   - Masking assumptions
 projects:
@@ -49,7 +50,7 @@ image:
   preview_only: false
 date: 2021-04-18T15:34:24.884Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2020-02-06T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
