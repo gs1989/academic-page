@@ -1,5 +1,6 @@
 ---
-abstract: Ge et al. propose the augmented ISA (or aISA), a central tenetof which is the selective exposure of micro-architectural resources via a less opaqueabstraction than normal. The aISA proposal is motivated by the need for controlover such resources, for example to implement robust countermeasures against micro-architectural attacks. In this paper, we apply an aISA-style approach to challengesstemming fromanaloguemicro-architectural leakage; examples include power-basedHamming weight and distance leakage from relatively fine-grained resources (e.g.,pipeline registers), which are not exposed in, and so cannot be reliably controlledvia, a normal ISA. Specifically, we design, implement, and evaluate an ISE namedFENL: the ISE acts as a fence for leakage, preventing interaction between, and henceleakage from, instructions before and after it in program order. We demonstrate thatthe implementation and use of FENL has relatively low overhead, and represents aneffective tool for systematically localising and reducing leakage.
+abstract: Ge et al. propose the augmented ISA (or aISA)
+
 slides: Slides
 url_pdf: "https://tches.iacr.org/index.php/TCHES/article/view/8545/8110"
 publication_types:
