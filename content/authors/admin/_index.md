@@ -46,4 +46,4 @@ Working in a multi-discipline field, my passion lies in interfacing between mult
 
 Details about my work and projects can be found in my CV. Happy visiting and hopefully you have fun!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/EnCV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/encv.pdf" "newtab" >}}resumé{{< /staticref >}}.
