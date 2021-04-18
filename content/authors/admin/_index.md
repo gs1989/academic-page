@@ -1,7 +1,7 @@
 ---
 title: Dr. Si Gao
 role: ""
-avatar_filename: photo.jpg
+avatar_filename: avatar.jpg
 bio: 'In short: a wanderer between a cryptographic researcher and a
   crypto-engineer. I care less about the "labels" on me, as they usually mean
   completely different thing in different eyes...'
