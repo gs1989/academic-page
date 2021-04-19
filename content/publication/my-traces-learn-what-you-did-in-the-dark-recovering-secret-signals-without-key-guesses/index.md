@@ -1,6 +1,6 @@
 ---
 title: "My Traces Learn What You Did in the Dark: Recovering Secret
-  Signals                Without Key Guesses"
+  Signals Without Key Guesses"
 publication_types:
   - "1"
 abstract: In side channel attack (SCA) studies, it is widely believed that
@@ -27,9 +27,26 @@ abstract: In side channel attack (SCA) studies, it is widely believed that
   study.
 draft: false
 featured: false
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
-date: 2021-04-19T13:26:14.622Z
+
+url_pdf: https://link.springer.com/content/pdf/10.1007%2F978-3-319-52153-4_21.pdf
+authors:
+  - Si Gao
+  - Hua Chen
+  - Wenling Wu
+  - Limin Fan
+  - Weiqiong Cao
+  - Xiangliang Ma
+publication: CARDIS 2018
+summary: A paper discussing the usage of Independent Component Analysis in side channel analysis
+doi: 10.1007/978-3-319-52153-4_21
+featured: false
+tags:
+  - Side channel analysis
+  - Signal recovery
+  - Independent Component Analysis
+categories:
+  - ICA
+
+publishDate: 2017-01-10T00:00:00.000Z
+date: 2017-01-10T00:00:00.000Z
 ---
