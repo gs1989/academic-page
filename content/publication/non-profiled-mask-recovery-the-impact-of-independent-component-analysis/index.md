@@ -15,9 +15,23 @@ abstract: As one of the most prevalent SCA countermeasures, masking schemes are
   competitive attack vector in practice.
 draft: false
 featured: false
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
-date: 2021-04-19T13:04:31.374Z
+url_pdf: https://link.springer.com/content/pdf/10.1007%2F978-3-030-15462-2_4.pdf
+authors:
+  - Si Gao
+  - Elisabeth Oswald
+  - Hua Chen
+  - Wei Xi
+publication: CARDIS 2018
+summary: A paper discussing the impact of Independent Component Analysis on masking schemes
+doi: 10.1007/978-3-030-15462-2_4
+featured: false
+tags:
+  - Side channel analysis
+  - Masking
+  - Independent Component Analysis
+categories:
+  - ICA
+
+publishDate: 2019-03-07T00:00:00.000Z
+date: 2019-03-07T00:00:00.000Z
 ---
