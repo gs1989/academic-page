@@ -19,9 +19,21 @@ abstract: "In both hardware and software, masking can represent an effective
   first-order secure."
 draft: false
 featured: false
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
-date: 2021-04-19T13:42:25.324Z
+url_pdf: https://eprint.iacr.org/2020/773.pdf
+authors:
+  - Si Gao
+  - Johann Großschädl
+  - Ben Marshall
+  - Dan Page
+  - Thinh Pham
+  - Francesco Regazzoni
+tags:
+  - Side-channel Attack
+  - Masking
+  - RISC-V
+  - ISE
+categories:
+  - RISC-V
+
+date: 2020-10-16T00:00:00.000Z
 ---

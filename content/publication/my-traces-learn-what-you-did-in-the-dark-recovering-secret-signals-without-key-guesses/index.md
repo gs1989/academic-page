@@ -36,7 +36,7 @@ authors:
   - Limin Fan
   - Weiqiong Cao
   - Xiangliang Ma
-publication: CARDIS 2018
+publication: CT-RSA 2017
 summary: A paper discussing the usage of Independent Component Analysis in side channel analysis
 doi: 10.1007/978-3-319-52153-4_21
 featured: false
