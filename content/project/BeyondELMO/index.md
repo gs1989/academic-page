@@ -1,12 +1,11 @@
 ---
-slides: example
+slides: Beyond ELMO
 url_pdf: ""
 title: Beyond ELMO...
 summary: ""
 url_video: ""
 date: 2021-04-19T18:41:50.241Z
 categories: []
-external_link: ---
 url_slides: ""
 subtitle: my own perspective
 tags:
