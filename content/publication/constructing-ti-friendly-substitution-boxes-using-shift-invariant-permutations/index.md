@@ -17,11 +17,22 @@ abstract: The threat posed by side channels requires ciphers that can be
   acquisitions. Because there are very few studies focusing on software-based
   threshold implementations, our software implementations might be of
   independent interest in this regard.
+url_pdf: https://link.springer.com/content/pdf/10.1007%2F978-3-030-12612-4_22.pdf
 draft: false
 featured: false
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
-date: 2021-04-19T12:45:48.118Z
+authors:
+  - Si Gao
+  - Arnab Roy
+  - Elisabeth Oswald
+publication: CT-RSA 2019
+summary: A paper discussing designing Sboxes with trivial 1st order threshold implementations
+doi: 10.1007/978-3-030-12612-4_22
+tags:
+  - Shift-invariant
+  - Threshold implementation
+  - Sbox
+categories:
+  - Cryptographic design
+publishDate: 2019-02-03T00:00:00.000Z
+date: 2021-04-19T14:59:00.000Z
 ---
