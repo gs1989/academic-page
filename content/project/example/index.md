@@ -1,14 +1,16 @@
 ---
 slides: example
 url_pdf: ""
+title: Beyond ELMO...
 summary: ""
 url_video: ""
 date: 2021-04-19T18:41:50.241Z
-external_link: https://github.com/sca-research/ELMO
+categories: []
+external_link: ---
 url_slides: ""
-title: Beyond ELMO...(my own perspective)
+subtitle: my own perspective
 tags:
-  - Deep Learning
+  - ELMO
 links:
   - icon: github
     icon_pack: fab
