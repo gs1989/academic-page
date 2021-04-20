@@ -7,7 +7,6 @@ draft: false
 featured: false
 categories:
   - Masking
-external_link: " "
 links:
   - url: https://github.com/sca-research/COSMIC
     name: Github(COSMIC)
