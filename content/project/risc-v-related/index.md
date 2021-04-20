@@ -7,6 +7,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+tags:
+  - RISC-V
 ---
 Up till now, I have not yet led a RISC-V related project: I participate and contribute to such project, but usually it is Ben or Dan coordinated the entire project. This include:
 
