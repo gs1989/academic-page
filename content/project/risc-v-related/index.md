@@ -3,7 +3,6 @@ title: RISC-V related
 date: 2021-04-20T18:54:21.953Z
 draft: false
 featured: false
-external_link: " "
 image:
   filename: featured
   focal_point: Smart
