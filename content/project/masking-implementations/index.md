@@ -5,7 +5,7 @@ subtitle: "COSMIC: a Complication of Open-Source Masked Implementations for
 date: 2021-04-20T09:25:03.069Z
 draft: false
 featured: false
-categories:
+tags:
   - Masking
 links:
   - url: https://github.com/sca-research/COSMIC
