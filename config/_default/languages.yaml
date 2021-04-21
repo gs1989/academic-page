@@ -17,27 +17,27 @@ zh:
 #    description: Site description in Chinese...
   menu:
        main:
-  	 - name: "个人简介"
+  	 - name: '个人简介'
     	   url: '#about'
            weight: 10
-  	 - name: "Posts"
+  	 - name: 'Posts'
     	   url: '#posts'
     	   weight: 20
-  	 - name: "项目"
+  	 - name: '项目'
     	   url: '#projects'
            weight: 30
-  	 - name: "开源代码"
+  	 - name: '开源代码'
     	   url: '#talks'
     	   weight: 40
-  	- name: "论文发表"
+  	- name: '论文发表'
     	  url: '#featured'
    	  weight: 50
-  	- name: "联系方式"
+  	- name: '联系方式'
     	  url: '#contact'
     	  weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: "简历"
+  - name: '简历'
     url: uploads/chcv.pdf
     weight: 70
