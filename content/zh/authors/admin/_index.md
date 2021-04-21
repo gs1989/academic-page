@@ -1,14 +1,12 @@
 ---
-title: Dr. Si Gao
+title: 高思
 role: ""
 avatar_filename: avatar.jpg
-bio: 'In short: a wanderer between a cryptographic researcher and a
-  crypto-engineer. I care less about the "labels" on me, as they usually mean
-  completely different thing in different eyes...'
+bio: '游曳于密码应用实践与密码基础理论之间'
 interests:
-  - Cryptographic engineering
-  - Implementation analysis
-  - Embedded security
+  - 密码应用
+  - 实现分析
+  - 嵌入式安全
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,22 +26,21 @@ organizations:
   - name: Alpen-Adria-Universität Klagenfurt
 education:
   courses:
-    - course: PhD in Applied computer technology
-      institution: Chinese Academy of Sciences, Institute of Software
-      year: ""
-    - course: BSc in Computer Science
-      institution: Wuhan Univeristy
-      year: ""
+    - course: 计算机应用技术，工学博士
+      institution: 中国科学院软件研究所
+      year: "2017"
+    - course: 信息安全，工学学士
+      institution: 武汉大学
+      year: "2011"
 email: ""
 superuser: true
 highlight_name: false
 ---
-I got my BSc in CS (more specifically, information security) at Wuhan University back in 2011. Guided by Prof. Ming Tang, I started my side-channel research around 2010 as an undergraduate student and keep that as my main research topic during my PhD at the Institute of Software, Chinese Academy of Sciences from 2011 to 2017 (Prof. Hua Chen, then Prof. Wenling Wu). After graduation, I started my Pos-doc journey with Prof. Elisabeth Oswald at the Univerisity of Bristol, UK; then move to AAU, Austria around Dec. 2019 and continue working on the same project.
+生于天津，长于天津，与常人无异。2007年由耀华中学考入武汉大学计算机学院信息安全专业。2010年借由学生竞赛，在唐明老师的引导下开始接触侧信道分析，由此开始10余年的深耕不辍。本科毕业后保研进入中科院软件所，在陈华老师，吴文玲老师的指导下完成博士学业。2017年博士毕业后在英国布里斯托大学开始博后研究(PI: Prof. Elisabeth Oswald)。英国脱欧后跟随项目迁移到奥地利。
 
-During my last 10 years of research in side-channel analysis and implementation security, I think it is fair to say I touched "a bit of everything" (you might even notice that from my publication list): from RTL implementation to cryptoanalysis, from assembly programming to embedded development, from industrial practice to abstract crypto theory, from CPU architecture to digital oscilloscopes. It is equally fair to say I am not an expert in any above area: I learn things when it becomes necessary for my work. I am an expert in terms of power-based side-channel analysis, leakage detection and analysis (usually only the practical side of the story), regression/statistical modelling etc, yet I guess those are only interesting for a limited group of audience...
+十余年的研究中，我想用"多能"形容自己应该不为过(发表列表中也可见一斑)：硬件设计，密码分析，嵌入式开发，汇编语言，工程实践，密码理论，处理器设计，数字示波器...反过来说，也可以讲以上这些谈不上“精通”。工作中，大多是需要什么学什么，用不到的就很少深究了。深耕10年，自然有我精通的领域， 如掩码设计与实现，能量分析，泄漏检测，相关的统计分析和泄漏模型等等(通常我只关注对应用有直接影响的部分;若您感兴趣的是基础理论，我可以推荐做相关方向的朋友)。大抵这些方向只对少数人有吸引力吧...
 
-Working in a multi-discipline field, my passion lies in interfacing between multiple backgrounds, eg.  academic v.s. industry, crypto v.s. hardware/software implementation, SCA v.s. statistics,  security v.s. other components of the system.  I usually like to talk with people from different backgrounds and understand their requirements and needs (assuming I am free at the moment), as long as people do not mind explaining some basic ground truth in their field to me and willing to view the problem out of their usual perspective. That has been said if what you are looking for is some quick and simple (or fairly speaking, ridiculous!) statement such as "software implementations do not have glitches", talking to me might not be the best thing to do: there are already too many overly-simplified misleading/divisive statements in the community and I am not into contributing further...
+实现分析本身就是一个交叉领域，因此我的兴趣大多体现在桥接不同领域，不同专业背景的结合与合作上。例如学术界与产业界，密码算法与硬件/软件实现，侧信道分析与统计理论，安全和系统的其他组成部分等等。有闲暇时通常热衷于与不同背景的研究者交流，了解他们的视角和需求。当然，前提是对方愿意解释一下其领域内的一些基础认知，且愿意跳出舒适区，愿意从不同与自己的视角讨论问题。反之，对于诸如“软件实现没有毛刺”之类的论述很难认可：这类过于简化的论述极易造成断章取义，误导行业内其他的研究者，进而造成行业分化。
 
-Details about my work and projects can be found in my CV. Happy visiting and hopefully you have fun!
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/encv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+详细的研究工作以及项目细节请参阅我的简历：祝阅览愉快，万事大吉！
+{{< icon name="download" pack="fas" >}} 简历 {{< staticref "uploads/chcv.pdf" "newtab" >}}下载{{< /staticref >}}.
