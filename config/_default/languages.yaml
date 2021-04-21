@@ -6,7 +6,7 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
@@ -15,8 +15,29 @@ zh:
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  menu:
+       main:
+  	 - name: 个人简介
+    	   url: '#about'
+           weight: 10
+  	 - name: Posts
+    	   url: '#posts'
+    	   weight: 20
+  	 - name: 项目
+    	   url: '#projects'
+           weight: 30
+  	 - name: 开源代码
+    	   url: '#talks'
+    	   weight: 40
+  	- name: 论文发表
+    	  url: '#featured'
+   	  weight: 50
+  	- name: 联系方式
+    	  url: '#contact'
+    	  weight: 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+  - name: 简历
+    url: uploads/chcv.pdf
+    weight: 70
