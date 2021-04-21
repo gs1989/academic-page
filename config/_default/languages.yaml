@@ -16,6 +16,9 @@ zh:
 #  params:
 #    description: Site description in Chinese...
   menu:
-      - name: 传
+      - name: 个人简介
         url: '#about'
-        weight: 1
+        weight: 10
+      - name: Post
+        url: '#post'
+        weight: 20
