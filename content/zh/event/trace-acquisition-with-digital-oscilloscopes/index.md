@@ -1,15 +1,15 @@
 ---
-title: Trace acquisition with digital oscilloscopes
+title: 利用数字示波器进行曲线采集
 all_day: false
 publishDate: 2021-04-21T09:36:32.368Z
 draft: false
 featured: false
 ---
-Side channel acquisitions usually utilise a digital oscilloscope to capture traces, so in order to set up an experimental work bench, the first step is to communicate with your oscilloscope. 
+功耗信息的获取通常需要使用数字示波器，因而进行采集测量时，第一步即需解决对于示波器的自动化控制。
 
-My personal experience is this step can vary according to each vendor: for instance, Picoscope usually provides a brilliant API programming guide. As long as you understand what you need to do (and have some basic programming skills), performing measurements should not be hard (back in Bristol, we even try to let undergraduate students do this). One of the reason is perhaps Picoscope has no screen of its own, so everything must be transmit to PC through API. Lecroy on the other hand, manufactures those high-end scopes that not only have screen, but also a powerful PC itself. There are many methodologies provided and the hard bit often becomes finding which one is still working. Depending on your scope type, some might already become legacy. So the real challenge is finding the right way to do this from a 300-500 pages documents. With our scope at Bristol, it seems vbs stript is the best option at that time (not sure right now or with any new type of scope).
+个人经验是，该步骤较为以来于示波器厂商提供的方案，不同产品差异较大。例如Picoscope的产品一般API定义较为清晰：若使用者有一定程序能力，且理解示波器的基本使用流程，进行测量通常较为容易（在布里斯托的课程中，曾有尝试向本科生教授这一技能）。这种现象一定程度上也是由于Picoscope通常没有自己的屏幕，所有图形显示都需要传输到PC用软件处理， 因而其API控制相对成熟。相反，Lecroy的高端示波器不仅有屏幕，自身也有较强的计算能力。由于Lecroy提供了多种不同技术方案，难点通常出现在如何从300-500页的文档中找到适合的方案。对于布里斯托使用的Lecroy示波器，我的经验是VBS脚本在当时是最为稳定的方案（与型号和时间密切相关，Lecroy有大量历史上遗弃方案仍能使用，但支持已经不再完整）。
 
-I will share some of my code here, in case it helps to build your own environment. As this has 0 innovation value, I only provide this as a reference, without any warranty. Fairly speaking, if you know exactly what you are doing, you should be able to write your own code quickly, without reading my code here.
+以下分享我的部分代码，用做示例。这些代码没有任何科研价值，仅作参考，亦不提供任何质量保障。
 
-* Acquisition script (python) for Lecroy oscilloscope: https://github.com/gs1989/Trace-Acquisition-for-Lecroy
-* Acquisition project (c#) for Picoscope: https://github.com/gs1989/AcquisitionProject
+* Lecroy python 采集代码: https://github.com/gs1989/Trace-Acquisition-for-Lecroy
+* Picoscope c# 采集代码: https://github.com/gs1989/AcquisitionProject

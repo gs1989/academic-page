@@ -1,13 +1,13 @@
 ---
 slides: Beyond ELMO
 url_pdf: ""
-title: Beyond ELMO...
+title: ELMO的维护与更新
 summary: ""
 url_video: ""
 date: 2021-04-19T18:41:50.241Z
 categories: []
 url_slides: ""
-subtitle: my own perspective
+subtitle: 个人观点
 tags:
   - ELMO
 links:
@@ -16,10 +16,10 @@ links:
     name: ELMO Github
     url: https://github.com/sca-research/ELMO
   - url: http://reassure.eu/
-    name: REASSURE project site
+    name: REASSURE项目网站
     icon_pack: fab
 image:
-  caption: ELMO workflow
+  caption: ELMO工作流程
   focal_point: Smart
   filename: featured.png
 url_code: ""
