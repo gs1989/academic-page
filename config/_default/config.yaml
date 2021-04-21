@@ -12,8 +12,8 @@ copyright: '© 2021 Si Gao' # Footer text, e.g. '© {year} Me'
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+hasCJKLanguage: true
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
