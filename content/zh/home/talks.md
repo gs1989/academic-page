@@ -3,8 +3,8 @@ widget: pages
 widget_id: RECENT-POSTS
 headless: true
 weight: 70
-title: Utilities
-subtitle: Tiny projects that you might find useful
+title: 开源代码
+subtitle: 部分可能有参考价值的代码
 content:
   page_type: event
   count: 5
